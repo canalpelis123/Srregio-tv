@@ -84,7 +84,7 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1,CO |el sol
 https://mdstrm.com/audio/632cb6ecaa9ace684913bf19/live.m3u8
 #EXTINF:-1,CO |la w radio
-[https://26643.live.streamtheworld.com/WRADIO.mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC_SC?csegid=10000)
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC_SC?csegid=10000)
 #EXTINF:-1,CO |Blu radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO.mp3
 #EXTINF:-1,CO |Caracol Radio
