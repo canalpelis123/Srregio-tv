@@ -91,7 +91,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO.mp3
 http://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIO.mp3
 #EXTINF:-1,CO |los 40 clasicos Colombia
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_COLOMBIA.mp3
-#EXTINF:-1,CO |WRadio 2
+#EXTINF:-1,CO |W +
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO_MASAAC.aac
 #EXTINF:-1,CO |años 80's
 https://listen.181fm.com/181-lite80s_128k.mp3
