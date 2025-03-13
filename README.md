@@ -96,7 +96,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO_MASAAC.
 #EXTINF:-1,CO |años 80's
 https://listen.181fm.com/181-lite80s_128k.mp3
 #EXTINF:-1,CO |tropicana
-https://24283.live.streamtheworld.com/TR_CALI.mp3
+https://26523.live.streamtheworld.com/TROPICANAAAC_SC
 #EXTINF:-1,CO |emisora 2
 https://hydra.cdnstream.com/1521_128
 #EXTINF:-1,CO |emisora 3
