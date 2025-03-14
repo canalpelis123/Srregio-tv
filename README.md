@@ -83,7 +83,7 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8?PlaylistM3UCL
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT8c6eC9t17E9Q9BUyBX3P-Ajd1Jm1fxMmgQ&s" group-title="Emisoras",El sol
 https://mdstrm.com/audio/632cb6ecaa9ace684913bf19/live.m3u8
-#EXTINF:-1,CO |la w radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQitbqZvxTCeM0EBWizR1w3JrzMc_HBRwYkNg&s" group-title="Emisoras",La W Radio 
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC_SC?csegid=10000)
 #EXTINF:-1,CO |Blu radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO.mp3
