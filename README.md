@@ -99,8 +99,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MEDELLINAA
 https://26523.live.streamtheworld.com/TROPICANAAAC_SC
 #EXTINF:-1,CO |Besame 
 https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_MEDELLINAAC.aac
-#EXTINF:-1,CO |emisora 3
-https://stream.zeno.fm/16ardrv3feruv
+#EXTINF:-1,CO |Radio Tiempo
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_MEDELLINAAC.aac
 #EXTINF:-1,CO |emisora 4
 https://stream.zenolive.com/g48fcbfa43duv
 #EXTINF:-1,CO |emisora 5
