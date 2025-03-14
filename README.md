@@ -1,6 +1,9 @@
 
 #EXTM3U 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="Colombia",1️⃣ Win Sports + 
+http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639567.ts
+
 #EXTINF:-1,CO | 1️⃣ LA CASA DE LOS FAMOSOS
 http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/822930.ts
 
