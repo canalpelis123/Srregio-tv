@@ -81,7 +81,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 https://ztnr.rtve.es/ztnr/1688877.m3u8?PlaylistM3UCL
 #EXTINF:-1,CO |Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Emisoras",El sol
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT8c6eC9t17E9Q9BUyBX3P-Ajd1Jm1fxMmgQ&s" group-title="Emisoras",El sol
 https://mdstrm.com/audio/632cb6ecaa9ace684913bf19/live.m3u8
 #EXTINF:-1,CO |la w radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC_SC?csegid=10000)
