@@ -98,7 +98,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MEDELLINAA
 #EXTINF:-1,CO |tropicana
 https://26523.live.streamtheworld.com/TROPICANAAAC_SC
 #EXTINF:-1,CO |Besame 
-https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MEDELLINAAC.aac?dist=oro_web
+https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_MEDELLINAAC.aac
 #EXTINF:-1,CO |emisora 3
 https://stream.zeno.fm/16ardrv3feruv
 #EXTINF:-1,CO |emisora 4
