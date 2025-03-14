@@ -93,8 +93,8 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIO.m
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_COLOMBIA.mp3
 #EXTINF:-1,CO |W +
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO_MASAAC.aac
-#EXTINF:-1,CO |años 80's
-https://listen.181fm.com/181-lite80s_128k.mp3
+#EXTINF:-1,CO |Olimpica Medellín 
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MEDELLINAAC.aac?dist=oro_web
 #EXTINF:-1,CO |tropicana
 https://26523.live.streamtheworld.com/TROPICANAAAC_SC
 #EXTINF:-1,CO |emisora 2
