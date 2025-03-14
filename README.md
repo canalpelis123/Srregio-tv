@@ -17,7 +17,7 @@ http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639574.ts
 http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639555.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-HDyMfQ3XNaVP-EkHRR6_WufZqVPbABSVWw&s" group-title="Colombia",NTN24
 http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639579.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRolSRPV2_IhkDwHp62wT6d-Os3x5WhZ3gXg&s" group-title="Colombia",RCN
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4j8HjMnx6UvsEQngtfRv8TL0HEEP5cJjMBw&s" group-title="Colombia",RCN
 http://ecuatvip-x.com:8080/live/ConsuelitoGL1./32cc7005e402e7f2/639562.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4j8HjMnx6UvsEQngtfRv8TL0HEEP5cJjMBw&s" group-title="Colombia",4️⃣ RCN XTRA
