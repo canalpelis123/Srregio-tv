@@ -103,8 +103,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_MEDELLI
 https://playerservices.streamtheworld.com/api/livestream-redirect/RT_MEDELLINAAC.aac
 #EXTINF:-1,CO |Radio Uno Cúcuta 
 https://mdstrm.com/audio/632ccd46d1dcd7027f3303c6/live.m3u8
-#EXTINF:-1,CO |emisora 5
-https://stream.zeno.fm/swx5avrzm2rvv
+#EXTINF:-1,CO |La FM Cúcuta 
+https://mdstrm.com/audio/632cccdf9234f869e9a51995/icecast.audio
 #EXTINF:-1,CO |emisora 6
 https://stream.zeno.fm/w9c685hnskeuv
 #EXTINF:-1,CO |emisora 7
