@@ -3,6 +3,19 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="Colombia",1️⃣ Win Sports + 
 http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639567.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="Colombia",2️⃣ Win Sports + 
+http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639573.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="Colombia",3️⃣ Win Sports + 
+http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639548.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/nN1qZ5K9W6rr-Oz3JDC-zscRUfR3w4EmbgiPa6f10CJW493aO5FfVYqa-HQrMXlMNHKMZHFzvw=s900-c-k-c0x00ffffff-no-rj" group-title="Colombia",1️⃣ Caracol ®
+http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639570.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/nN1qZ5K9W6rr-Oz3JDC-zscRUfR3w4EmbgiPa6f10CJW493aO5FfVYqa-HQrMXlMNHKMZHFzvw=s900-c-k-c0x00ffffff-no-rj" group-title="Colombia",2️⃣ Caracol
+http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639549.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/nN1qZ5K9W6rr-Oz3JDC-zscRUfR3w4EmbgiPa6f10CJW493aO5FfVYqa-HQrMXlMNHKMZHFzvw=s900-c-k-c0x00ffffff-no-rj" group-title="Colombia",4️⃣ CARACOL
+http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639574.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/3/3a/Caracol_Internacional.png/revision/latest?cb=20210827152615&path-prefix=es" group-title="Colombia",6️⃣ Caracol Internacional HD
+http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639555.ts
+
 
 #EXTINF:-1,CO | 1️⃣ LA CASA DE LOS FAMOSOS
 http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/822930.ts
