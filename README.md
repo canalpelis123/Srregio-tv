@@ -101,8 +101,8 @@ https://26523.live.streamtheworld.com/TROPICANAAAC_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_MEDELLINAAC.aac
 #EXTINF:-1,CO |Radio Tiempo
 https://playerservices.streamtheworld.com/api/livestream-redirect/RT_MEDELLINAAC.aac
-#EXTINF:-1,CO |emisora 4
-https://stream.zenolive.com/g48fcbfa43duv
+#EXTINF:-1,CO |Radio Uno Cúcuta 
+https://mdstrm.com/audio/632ccd46d1dcd7027f3303c6/live.m3u8
 #EXTINF:-1,CO |emisora 5
 https://stream.zeno.fm/swx5avrzm2rvv
 #EXTINF:-1,CO |emisora 6
