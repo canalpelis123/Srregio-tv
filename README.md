@@ -81,33 +81,34 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 https://ztnr.rtve.es/ztnr/1688877.m3u8?PlaylistM3UCL
 #EXTINF:-1,CO |Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT8c6eC9t17E9Q9BUyBX3P-Ajd1Jm1fxMmgQ&s" group-title="Emisoras",El sol
 https://mdstrm.com/audio/632cb6ecaa9ace684913bf19/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQitbqZvxTCeM0EBWizR1w3JrzMc_HBRwYkNg&s" group-title="Emisoras",La W Radio 
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC_SC?csegid=10000)
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5NqrIGu9UXMt2X8xgSbpD480wwuuAVjeLNg&s" group-title="Emisoras",Blu Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO.mp3
-#EXTINF:-1,CO |Caracol Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNrYrYX9B6ea6mKVSiN6nM4mL6jtmulEdlKQ&s" group-title="Emisoras",Caracol Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIO.mp3
-#EXTINF:-1,CO |los 40 clasicos Colombia
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LOGO_40_PRINCIPALES.png/800px-LOGO_40_PRINCIPALES.png" group-title="Emisoras",Los 40 Principales
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_COLOMBIA.mp3
-#EXTINF:-1,CO |W +
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlotqfIorKBL2-uLZbExMP_gTvpsL8RJSG_Q&s" group-title="Emisoras",La w+
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO_MASAAC.aac
-#EXTINF:-1,CO |Olimpica Medellín 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeB6KwZ7N3XmdWmVr6I2ovtKdMOvFSXBaeKw&s" group-title="Emisoras",Olimpica Medellín
 https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MEDELLINAAC.aac?dist=oro_web
-#EXTINF:-1,CO |tropicana
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-profiles.tunein.com/s188221/images/logog.png?t=2" group-title="Emisoras",Tropicana
 https://26523.live.streamtheworld.com/TROPICANAAAC_SC
-#EXTINF:-1,CO |Besame 
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1601206073381249024/FBJFT_Oa_400x400.jpg" group-title="Emisoras",Besame
 https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_MEDELLINAAC.aac
-#EXTINF:-1,CO |Radio Tiempo
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSua7dUrfyPgnQXU8FmCO34aIoHTpQTa0TcLA&s" group-title="Emisoras",Radio Tiempo
 https://playerservices.streamtheworld.com/api/livestream-redirect/RT_MEDELLINAAC.aac
-#EXTINF:-1,CO |Radio Uno Cúcuta 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYU5m70AZ9X1aYz_CqVIlP8VqxIKUlc2mY3A&s" group-title="Emisoras",Radio Uno Cúcuta 
 https://mdstrm.com/audio/632ccd46d1dcd7027f3303c6/live.m3u8
-#EXTINF:-1,CO |La FM Cúcuta 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdJ8eGHK1tnC8q5RcNKbZlWWArW9bkUkxdrA&s" group-title="Emisoras",La FM Cúcuta 
 https://mdstrm.com/audio/632cccdf9234f869e9a51995/icecast.audio
-#EXTINF:-1,CO |Ocaña Digital Radio 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZCO1Vcj1zGBjVfxdTrX7DI_Rf40YiXBlOgA&s" group-title="Emisoras",Ocaña Digital Radio 
 https://streaming.intermediacolombia.com:2020/stream/8077
-#EXTINF:-1,CO |Pamplona Radio 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6vqE8B460hInMuW1z-4KcXbt8SCmXPqVZQ&s" group-title="Emisoras",Pamplona Radio 
 https://play10.tikast.com/proxy/sainmesc?mp=/stream
 #EXTINF:-1,CO | 1️⃣ Win Sports +
 http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639567.ts
