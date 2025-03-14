@@ -15,6 +15,17 @@ http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639549.ts
 http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639574.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/3/3a/Caracol_Internacional.png/revision/latest?cb=20210827152615&path-prefix=es" group-title="Colombia",6️⃣ Caracol Internacional HD
 http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639555.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4j8HjMnx6UvsEQngtfRv8TL0HEEP5cJjMBw&s" group-title="Colombia",4️⃣ RCN XTRA
+http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/712723.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHF6pqNfaYTZ-2qztUvdiafb8d4PRNO-lDBg&s" group-title="Colombia",1️⃣ CANAL 1
+http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/775595.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSydoYMRwJVtxXDQIvPiu__riyBaK_tUbRFwQ&s" group-title="Colombia",2️⃣ Telecafe
+http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/-KeoYiU3LX8/sddefault.jpg" group-title="Colombia",1️⃣ Telecaribe
+http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639561.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHFbST7EmJBV-NJB1GV9h_8kKtddvODxmvoA&s" group-title="Colombia",Cable Noticias HD
+http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639581.ts
+
 
 
 #EXTINF:-1,CO | 1️⃣ LA CASA DE LOS FAMOSOS
