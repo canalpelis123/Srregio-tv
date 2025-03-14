@@ -85,7 +85,7 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 https://mdstrm.com/audio/632cb6ecaa9ace684913bf19/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQitbqZvxTCeM0EBWizR1w3JrzMc_HBRwYkNg&s" group-title="Emisoras",La W Radio 
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC_SC?csegid=10000)
-#EXTINF:-1,CO |Blu radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5NqrIGu9UXMt2X8xgSbpD480wwuuAVjeLNg&s" group-title="Emisoras",Blu Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO.mp3
 #EXTINF:-1,CO |Caracol Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIO.mp3
