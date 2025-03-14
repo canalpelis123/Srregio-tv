@@ -97,8 +97,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO_MASAAC.
 https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MEDELLINAAC.aac?dist=oro_web
 #EXTINF:-1,CO |tropicana
 https://26523.live.streamtheworld.com/TROPICANAAAC_SC
-#EXTINF:-1,CO |emisora 2
-https://hydra.cdnstream.com/1521_128
+#EXTINF:-1,CO |Besame 
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MEDELLINAAC.aac?dist=oro_web
 #EXTINF:-1,CO |emisora 3
 https://stream.zeno.fm/16ardrv3feruv
 #EXTINF:-1,CO |emisora 4
