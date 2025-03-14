@@ -81,7 +81,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 https://ztnr.rtve.es/ztnr/1688877.m3u8?PlaylistM3UCL
 #EXTINF:-1,CO |Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,CO |el sol
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Emisoras",El sol
 https://mdstrm.com/audio/632cb6ecaa9ace684913bf19/live.m3u8
 #EXTINF:-1,CO |la w radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC_SC?csegid=10000)
@@ -107,8 +107,8 @@ https://mdstrm.com/audio/632ccd46d1dcd7027f3303c6/live.m3u8
 https://mdstrm.com/audio/632cccdf9234f869e9a51995/icecast.audio
 #EXTINF:-1,CO |Ocaña Digital Radio 
 https://streaming.intermediacolombia.com:2020/stream/8077
-#EXTINF:-1,CO |emisora 7
-https://stream.zeno.fm/cufkute5x7ruv
+#EXTINF:-1,CO |Pamplona Radio 
+https://play10.tikast.com/proxy/sainmesc?mp=/stream
 #EXTINF:-1,CO | 1️⃣ Win Sports +
 http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639567.ts
 #EXTINF:-1,CO | 2️⃣ Win Sports +
