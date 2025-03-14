@@ -105,8 +105,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RT_MEDELLINAAC
 https://mdstrm.com/audio/632ccd46d1dcd7027f3303c6/live.m3u8
 #EXTINF:-1,CO |La FM Cúcuta 
 https://mdstrm.com/audio/632cccdf9234f869e9a51995/icecast.audio
-#EXTINF:-1,CO |emisora 6
-https://stream.zeno.fm/w9c685hnskeuv
+#EXTINF:-1,CO |Ocaña Digital Radio 
+https://streaming.intermediacolombia.com:2020/stream/8077
 #EXTINF:-1,CO |emisora 7
 https://stream.zeno.fm/cufkute5x7ruv
 #EXTINF:-1,CO | 1️⃣ Win Sports +
