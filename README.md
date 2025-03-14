@@ -38,7 +38,7 @@ http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/749754.ts
 
 
 
-#EXTINF:-1,INTERNACIONAL|EURONEWS ESPAÑOL 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Internacional",EURONEWS ESPAÑOL 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1, INTERNACIONAL|DRT Español 
