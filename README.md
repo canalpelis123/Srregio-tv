@@ -28,8 +28,7 @@ http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639561.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHFbST7EmJBV-NJB1GV9h_8kKtddvODxmvoA&s" group-title="Colombia",Cable Noticias HD
 http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639581.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuow2vuh1e1o8iucQe3poVVP_vvLRu9tAWQg&s" group-title="Colombia",La Casa De Los Famosos
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/822930.ts
-
+http://ecuatvip-x.com:8080/live/ConsuelitoGL1./32cc7005e402e7f2/905459.ts
 
 
 
