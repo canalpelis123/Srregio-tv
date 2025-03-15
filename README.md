@@ -164,7 +164,7 @@ http://45.228.234.167:8000/play/a018/index.m3u8
 http://45.228.234.167:8000/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",AXN HD
 http://45.228.234.167:8000/play/a04f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",AZ click HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStWnHnWenpvU4V5ks5yemStKDtexMUjkvVWg&s" group-title="Premium",AZ click HD
 http://45.228.234.167:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Animal Planet
 http://45.228.234.167:8000/play/a02x/index.m3u8
