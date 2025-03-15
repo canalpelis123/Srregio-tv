@@ -416,7 +416,11 @@ http://45.228.234.167:8000/play/a04s/index.m3u8
 http://45.228.234.167:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",SONY
 http://45.228.234.167:8000/play/a02r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",SONY HD
+"Premium",TVE
+http://45.228.234.167:8000/play/a04c/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Teen Nick HD
+http://SONY HD
 http://45.228.234.167:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",SPACE
 http://45.228.234.167:8000/play/a04w/index.m3u8
@@ -461,7 +465,7 @@ http://45.228.234.167:8000/play/a05n/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",TVChile
 http://45.228.234.167:8000/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",TVE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",TVE
 http://45.228.234.167:8000/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Teen Nick HD
