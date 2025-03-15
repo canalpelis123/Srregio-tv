@@ -182,7 +182,7 @@ http://45.228.234.167:8000/play/a04v/index.m3u8
 http://45.228.234.167:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",BBC News
 http://45.228.234.167:8000/play/a058/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/a/ad/BabyFirst_TV.svg/revision/latest?cb=20230401195946" group-title="Premium",Baby First
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRF8Y-ulww1OYm_muicIbmdSwH_tTWFma96g&s" group-title="Premium",Baby First
 http://45.228.234.167:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Baby TV
 http://45.228.234.167:8000/play/a005/index.m3u8
