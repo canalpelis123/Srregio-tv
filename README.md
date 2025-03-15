@@ -188,16 +188,22 @@ http://45.228.234.167:8000/play/a01w/index.m3u8
 http://45.228.234.167:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I8KDdd968Q29vCIlXLwwweJKUYE7BuMviw&s" group-title="Premium",CARTOON NT HD
 http://45.228.234.167:8000/play/a00t/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Internacional",CDN2- RD
 http://45.228.234.167:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Internacional",CDN37 - RD
 http://45.228.234.167:8000/play/a02n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",CINECANAL HD
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStQy0N506mV7N0FgcHKr5ml7s246PJMZhbVQ&s" group-title="Premium",CINECANAL HD
 http://45.228.234.167:8000/play/a036/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",CNN Internacional
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9S_dwsCfddC68maB-9Ns7BWAwH_WeXCDfGg&s" group-title="Premium",CNN Internacional
 http://45.228.234.167:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",CNNE
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Premium",CNN Esp
 http://45.228.234.167:8000/play/a057/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Canal 11 - GUA
 http://45.228.234.167:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Canal 11 - HON
@@ -222,21 +228,27 @@ http://45.228.234.167:8000/play/a02g/index.m3u8
 http://45.228.234.167:8000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Canal del Congreso
 http://45.228.234.167:8000/play/a03p/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Cartoon Network
 http://45.228.234.167:8000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Cartoonito
 http://45.228.234.167:8000/play/a04p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Cine Latino
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXwesyuCLvfb0ziIbBfNuGI_OwPA4tIgDPog&s" group-title="Premium",Cine Latino
 http://45.228.234.167:8000/play/a047/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",CineCanal
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStQy0N506mV7N0FgcHKr5ml7s246PJMZhbVQ&s" group-title="Premium",CineCanal
 http://45.228.234.167:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",CineMax
 http://45.228.234.167:8000/play/a048/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Color Vision 9 - RD
 http://45.228.234.167:8000/play/a02m/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Comedy Central HD
 http://45.228.234.167:8000/play/a03e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Concert Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8tfoHG_omSQV2KRPffllOYJ0wKq4tQoUlNg&s" group-title="Premium",Concert Channel
 http://45.228.234.167:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",DHE
 http://45.228.234.167:8000/play/a00r/index.m3u8
