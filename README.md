@@ -142,50 +142,8 @@ https://mdstrm.com/audio/632cccdf9234f869e9a51995/icecast.audio
 https://streaming.intermediacolombia.com:2020/stream/8077
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6vqE8B460hInMuW1z-4KcXbt8SCmXPqVZQ&s" group-title="Emisoras",Pamplona Radio 
 https://play10.tikast.com/proxy/sainmesc?mp=/stream
-#EXTINF:-1,CO | 1️⃣ Win Sports +
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639567.ts
-#EXTINF:-1,CO | 2️⃣ Win Sports +
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639573.ts
-#EXTINF:-1,CO | 3️⃣ Win Sports +
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639548.ts
-#EXTINF:-1,CO | 1️⃣ Caracol ®
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639570.ts
-#EXTINF:-1,CO | 2️⃣ Caracol
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639549.ts
-#EXTINF:-1,CO | 4️⃣ CARACOL
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639574.ts
-#EXTINF:-1,CO | 6️⃣ Caracol Internacional HD
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639555.ts
-#EXTINF:-1,CO | 4️⃣ RCN XTRA
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/712723.ts
-#EXTINF:-1,CO | 1️⃣ CANAL 1
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/775595.ts
-#EXTINF:-1,CO | 2️⃣ Telecafe
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639552.ts
-#EXTINF:-1,CO | 1️⃣ Telecaribe
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639561.ts
-#EXTINF:-1,CO | Cable Noticias HD
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639581.ts
-#EXTINF:-1,CO | CANAL 2 CALI
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/749747.ts
-#EXTINF:-1,CO | Canal Capital
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639588.ts
-#EXTINF:-1,CO | El Tiempo
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639571.ts
-#EXTINF:-1,CO | La Kalle HD
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639575.ts
-#EXTINF:-1,CO | NTN24
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639579.ts
-#EXTINF:-1,CO | RED + NOTICIAS
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/749752.ts
-#EXTINF:-1,CO | Señal Colombia
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639554.ts
-#EXTINF:-1,CO | TELEANTIOQUIA # 2
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/749754.ts
-#EXTINF:-1,CO | TELEISLAS
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/749750.ts
-#EXTINF:-1,CO | TU UNIVERSO TV
-http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/749758.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",- Repretel
 http://45.228.234.167:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",13-Sinart
