@@ -188,9 +188,9 @@ http://45.228.234.167:8000/play/a01w/index.m3u8
 http://45.228.234.167:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I8KDdd968Q29vCIlXLwwweJKUYE7BuMviw&s" group-title="Premium",CARTOON NT HD
 http://45.228.234.167:8000/play/a00t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",CDN2- RD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Internacional",CDN2- RD
 http://45.228.234.167:8000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",CDN37 - RD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Internacional",CDN37 - RD
 http://45.228.234.167:8000/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",CINECANAL HD
 http://45.228.234.167:8000/play/a036/index.m3u8
