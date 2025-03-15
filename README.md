@@ -152,51 +152,51 @@ http://45.228.234.167:8000/play/a00o/index.m3u8
 http://45.228.234.167:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",- Repretel
 http://45.228.234.167:8000/play/a01u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",A&E
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",A&E
 http://45.228.234.167:8000/play/a02u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",A&E HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",A&E HD
 http://45.228.234.167:8000/play/a017/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",AMC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",AMC
 http://45.228.234.167:8000/play/a056/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",AMC HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",AMC HD
 http://45.228.234.167:8000/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",AXN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",AXN
 http://45.228.234.167:8000/play/a054/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",AXN HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",AXN HD
 http://45.228.234.167:8000/play/a04f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",AZ click HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",AZ click HD
 http://45.228.234.167:8000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Animal Planet
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Animal Planet
 http://45.228.234.167:8000/play/a02x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Animal Planet HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Animal Planet HD
 http://45.228.234.167:8000/play/a014/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Antena 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Antena 3
 http://45.228.234.167:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Antena 7- RD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Antena 7- RD
 http://45.228.234.167:8000/play/a04k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Atres Series
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Atres Series
 http://45.228.234.167:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Azcorazon
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Azcorazon
 http://45.228.234.167:8000/play/a04v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Azmundo
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Azmundo
 http://45.228.234.167:8000/play/a02q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",BBC News
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",BBC News
 http://45.228.234.167:8000/play/a058/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Baby First
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Baby First
 http://45.228.234.167:8000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Baby TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Baby TV
 http://45.228.234.167:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",CARTOON NT HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",CARTOON NT HD
 http://45.228.234.167:8000/play/a00t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",CDN2- RD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",CDN2- RD
 http://45.228.234.167:8000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",CDN37 - RD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",CDN37 - RD
 http://45.228.234.167:8000/play/a02n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",CINECANAL HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",CINECANAL HD
 http://45.228.234.167:8000/play/a036/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",CNN Internacional
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",CNN Internacional
 http://45.228.234.167:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",CNNE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",CNNE
 http://45.228.234.167:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Canal 11 - GUA
 http://45.228.234.167:8000/play/a01k/index.m3u8
@@ -222,140 +222,142 @@ http://45.228.234.167:8000/play/a02g/index.m3u8
 http://45.228.234.167:8000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Canal del Congreso
 http://45.228.234.167:8000/play/a03p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Cartoon Network
 http://45.228.234.167:8000/play/a04n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Cartoonito
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Cartoonito
 http://45.228.234.167:8000/play/a04p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Cine Latino
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Cine Latino
 http://45.228.234.167:8000/play/a047/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",CineCanal
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",CineCanal
 http://45.228.234.167:8000/play/a04a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",CineMax
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",CineMax
 http://45.228.234.167:8000/play/a048/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Color Vision 9 - RD
 http://45.228.234.167:8000/play/a02m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Comedy Central HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Comedy Central HD
 http://45.228.234.167:8000/play/a03e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Concert Channel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Concert Channel
 http://45.228.234.167:8000/play/a043/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",DHE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",DHE
 http://45.228.234.167:8000/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",DHE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",DHE HD
 http://45.228.234.167:8000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",DISC THEATHER HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium", Discovery Thetre HD
 http://45.228.234.167:8000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Discovery Channel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Discovery Channel
 http://45.228.234.167:8000/play/a02w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Discovery Channel HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Discovery Channel HD
 http://45.228.234.167:8000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Discovery Home & Health
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Discovery Home & Health
 http://45.228.234.167:8000/play/a03y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Discovery ID HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Discovery ID HD
 http://45.228.234.167:8000/play/a05s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Discovery Kids
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Discovery Kids
 http://45.228.234.167:8000/play/a03t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Discovery Kids HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Discovery Kids HD
 http://45.228.234.167:8000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Discovery Science
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Discovery Science
 http://45.228.234.167:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Discovery Turbo
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Discovery Turbo
 http://45.228.234.167:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Discovery World HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Discovery World HD
 http://45.228.234.167:8000/play/a05p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Disney
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Disney
 http://45.228.234.167:8000/play/a03v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Disney JR
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Disney JR
 http://45.228.234.167:8000/play/a04q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",E!
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",E!
 http://45.228.234.167:8000/play/a02t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",E! Entertairment HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",E! Entertairment HD
 http://45.228.234.167:8000/play/a015/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",ESPN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",ESPN
 http://45.228.234.167:8000/play/a030/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",ESPN 2
 http://45.228.234.167:8000/play/a031/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",ESPN 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",ESPN 2 HD
 http://45.228.234.167:8000/play/a0h0/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",ESPN 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",ESPN 3
 http://45.228.234.167:8000/play/a023/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",ESPN 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",ESPN 3 HD
 http://45.228.234.167:8000/play/a0h1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",ESPN 6 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",ESPN 6 HD
 http://45.228.234.167:8000/play/a0h2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",ESPN HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",ESPN HD
 http://45.228.234.167:8000/play/a05h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",EURO Channel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",EURO Channel
 http://45.228.234.167:8000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",EWTN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",EWTN
 http://45.228.234.167:8000/play/a05b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",El Gourmet
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",El Gourmet
 http://45.228.234.167:8000/play/a021/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Europa HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Europa HD
 http://45.228.234.167:8000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Exa TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Exa TV
 http://45.228.234.167:8000/play/a032/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",FOX SPORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",FOX SPORTS 3 HD
 http://45.228.234.167:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",FUTV CR
 http://45.228.234.167:8000/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",FUTV HD CR
 http://45.228.234.167:8000/play/a05g/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",FX
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",FX
 http://45.228.234.167:8000/play/a01x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",FX HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",FX HD
 http://45.228.234.167:8000/play/a01a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Film & Arts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Film & Arts
 http://45.228.234.167:8000/play/a00q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Film & arts HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Film & arts HD
 http://45.228.234.167:8000/play/a016/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Fox Sport 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Fox Sport 3
 http://45.228.234.167:8000/play/a051/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",France24
 http://45.228.234.167:8000/play/a059/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Golden
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Golden
 http://45.228.234.167:8000/play/a029/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Golden Premiere 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Golden Premiere 2 HD
 http://45.228.234.167:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Golden Premiere HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Golden Premiere HD
 http://45.228.234.167:8000/play/a00j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Golf Channel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Golf Channel
 http://45.228.234.167:8000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Golf Channel HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Golf Channel HD
 http://45.228.234.167:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Guatevision - GUA
 http://45.228.234.167:8000/play/a04i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",H2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",H2
 http://45.228.234.167:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",HBO Family HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Family HD
 http://45.228.234.167:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",HBO HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO HD
 http://45.228.234.167:8000/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",HBO Plus HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Plus HD
 http://45.228.234.167:8000/play/a00w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",HBO XTREME
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO XTREME
 http://45.228.234.167:8000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",HBO2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO2 HD
 http://45.228.234.167:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",HCH- HON
 http://45.228.234.167:8000/play/a04m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",HOLA! TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HOLA! TV HD
 http://45.228.234.167:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",HTV
 http://45.228.234.167:8000/play/a028/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",History Channel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",History Channel
 http://45.228.234.167:8000/play/a02y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",History HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",History HD
 http://45.228.234.167:8000/play/a05c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Hola!TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Hola!TV
 http://45.228.234.167:8000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Home & Health HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Home & Health HD
 http://45.228.234.167:8000/play/a03c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Home Garden Latino
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Home Garden Latino
 http://45.228.234.167:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",ID
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",ID
 http://45.228.234.167:8000/play/a03z/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",LIFE TIME
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",LIFE TIME
 http://45.228.234.167:8000/play/a050/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",La voz de Maria
 http://45.228.234.167:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Latin America Sport
@@ -376,35 +378,35 @@ http://45.228.234.167:8000/play/a05e/index.m3u8
 http://45.228.234.167:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",MTV SIM HD
 http://45.228.234.167:8000/play/a03f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Mas Chic
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Mas Chic
 http://45.228.234.167:8000/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Multicinema
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Multicinema
 http://45.228.234.167:8000/play/a02b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Multipremier
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Multipremier
 http://45.228.234.167:8000/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",NEXT - PAN
 http://45.228.234.167:8000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Nat Geo HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Nat Geo HD
 http://45.228.234.167:8000/play/a05l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",National Geographic
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",National Geographic
 http://45.228.234.167:8000/play/a04z/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Nick Jr
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Nick Jr
 http://45.228.234.167:8000/play/a04o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Nick SIM HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Nick SIM HD
 http://45.228.234.167:8000/play/a039/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Nickelodeon
 http://45.228.234.167:8000/play/a03u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",PXTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",PXTV
 http://45.228.234.167:8000/play/a025/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Paramount
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Paramount
 http://45.228.234.167:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Paramount HD
 http://45.228.234.167:8000/play/a05m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Pasiones HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Pasiones HD
 http://45.228.234.167:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",RCN - GUA
 http://45.228.234.167:8000/play/a03q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",RCN Novelas
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",RCN Novelas
 http://45.228.234.167:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",RHEMA TV
 http://45.228.234.167:8000/play/a04d/index.m3u8
@@ -412,60 +414,68 @@ http://45.228.234.167:8000/play/a04d/index.m3u8
 http://45.228.234.167:8000/play/a04s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",SERTV - PAN
 http://45.228.234.167:8000/play/a01i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",SONY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",SONY
 http://45.228.234.167:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",SONY HD
 http://45.228.234.167:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",SPACE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",SPACE
 http://45.228.234.167:8000/play/a04w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",SPACE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",SPACE HD
 http://45.228.234.167:8000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",STAR CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",STAR CHANNEL
 http://45.228.234.167:8000/play/a03w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",STAR CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",STAR CHANNEL HD
 http://45.228.234.167:8000/play/a033/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Sembrador
 http://45.228.234.167:8000/play/a02c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Sony Movies HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Sony Movies HD
 http://45.228.234.167:8000/play/a01c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Star TVE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Star TVE HD
 http://45.228.234.167:8000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Studio Universal
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Studio Universal
 http://45.228.234.167:8000/play/a049/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Sun Channel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Sun Channel
 http://45.228.234.167:8000/play/a022/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",SyFy
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",SyFy
 http://45.228.234.167:8000/play/a02v/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",TBN Enlace
 http://45.228.234.167:8000/play/a05a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",TCM
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",TCM
 http://45.228.234.167:8000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",TLC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",TLC
 http://45.228.234.167:8000/play/a02z/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",TNT
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",TNT
 http://45.228.234.167:8000/play/a055/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",TNT HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",TNT HD
 http://45.228.234.167:8000/play/a03a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",TNT Novelas
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",TNT Novelas
 http://45.228.234.167:8000/play/a04y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",TNT Series
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",TNT Series
 http://45.228.234.167:8000/play/a04x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",TNT Series HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",TNT Series HD
 http://45.228.234.167:8000/play/a05n/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",TVChile
 http://45.228.234.167:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",TVE
 http://45.228.234.167:8000/play/a04c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Teen Nick HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Teen Nick HD
 http://45.228.234.167:8000/play/a012/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",TeleMicro - RD
 http://45.228.234.167:8000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Telecentro - RD
 http://45.228.234.167:8000/play/a01r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Telemundo
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Telemundo
 http://45.228.234.167:8000/play/a04u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Telemundo HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Telemundo HD
 http://45.228.234.167:8000/play/a019/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Telesistema RD
 http://45.228.234.167:8000/play/a04l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Teleuniverso - RD
@@ -474,32 +484,33 @@ http://45.228.234.167:8000/play/a01q/index.m3u8
 http://45.228.234.167:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Tigo Sports HD
 http://45.228.234.167:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Tooncast
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Tooncast
 http://45.228.234.167:8000/play/a02p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Tru TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Tru TV
 http://45.228.234.167:8000/play/a04t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",UNIVERSAL CINEMA ESTE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",UNIVERSAL CINEMA ESTE HD
 http://45.228.234.167:8000/play/a05t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",UNIVERSAL COMEDY HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",UNIVERSAL COMEDY HD
 http://45.228.234.167:8000/play/a03l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",UNIVERSAL CRIME HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",UNIVERSAL CRIME HD
 http://45.228.234.167:8000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",UNIVERSAL PREMIERE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",UNIVERSAL PREMIERE HD
 http://45.228.234.167:8000/play/a03h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",UNIVERSAL PREMIERE O HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",UNIVERSAL PREMIERE O HD
 http://45.228.234.167:8000/play/a03i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",UNIVERSAL REALITY HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",UNIVERSAL REALITY HD
 http://45.228.234.167:8000/play/a03j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Universal
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Universal
 http://45.228.234.167:8000/play/a044/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Univision HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Univision HD
 http://45.228.234.167:8000/play/a05r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",WARNER HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",WARNER HD
 http://45.228.234.167:8000/play/a034/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Warner
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Warner
 http://45.228.234.167:8000/play/a02s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",ZooMoo
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",ZooMoo
 http://45.228.234.167:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",test ESPN HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",test ESPN HD
 http://45.228.234.167:8000/play/a0h3/index.m3u8
 
